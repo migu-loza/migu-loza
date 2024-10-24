@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋🏽 Hey 
+I'm Miguel, a freelance web designer from Michigan, USA!
 
-<!--
-**migu-loza/migu-loza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 About 
+I grew up enjoying video games, building things with Lego pieces, and tinkering with computers and other technologies. Eventually, I learned basic HTML and CSS in high school. I graduated with an Associate in Web Design and earned my Responsive Web Design certificate from freeCodeCamp. I create clean and professional websites and iconic logos for individuals, small and medium-sized businesses.
+You can email me at [miguel@miguloza.com](mailto:miguel@miguloza.com)
 
-Here are some ideas to get you started:
+## 💻 What's next? 
+- Learn Figma
+- Learn Tailwind CSS
+- Learn JS
+- Learn PHP
+- Learn Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✌🏽 Thanks for stopping by!
+
+<!-- **migu-loza/migu-loza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
