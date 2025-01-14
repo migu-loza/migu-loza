@@ -6,9 +6,8 @@ I grew up enjoying video games, building things with Lego pieces, and tinkering 
 - You can email me at [miguel@miguloza.com](mailto:miguel@miguloza.com)
 
 ## 💻 What's next? 
-- Learn JS
-- Learn PHP
 - Learn Swift
+- Learn AI
 - Learn the Ukulele 😎
 
 ## ✌🏽 Thanks for stopping by!
